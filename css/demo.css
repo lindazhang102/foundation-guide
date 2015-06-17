@@ -1,0 +1,22 @@
+/* line 1, ../sass/demo.scss */
+.list-down {
+  border-top: 1px solid #000;
+}
+/* line 3, ../sass/demo.scss */
+.list-down ul {
+  margin-top: 20px;
+}
+/* line 5, ../sass/demo.scss */
+.list-down ul li {
+  list-style-type: none;
+}
+
+/* line 10, ../sass/demo.scss */
+.footer-small li {
+  list-style-type: none;
+}
+
+/* line 13, ../sass/demo.scss */
+.list-add {
+  border-top: 1px solid #000;
+}
